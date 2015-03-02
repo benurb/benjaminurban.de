@@ -9,6 +9,18 @@ Benjamin Urban<br>
 Dr.-Lehner-Strasse 1b<br>
 86399 Bobingen<br>
 Germany<br>
+<br>
+**Contact:**<br>
+contact@benjaminurban.de
+
+## CV
+Coming soon ...
+
+## Projects
+Coming soon ...
+
+## Hobbies
+Coming soon ...
 
 
-[Impressum](Imprint.md)
+*[Impressum](Imprint.md)*
